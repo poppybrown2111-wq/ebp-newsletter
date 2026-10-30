@@ -1,0 +1,3 @@
+[build]
+  publish = "ebp-newsletter/public"
+  functions = "ebp-newsletter/netlify/functions"
